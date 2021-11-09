@@ -1,0 +1,4 @@
+source:
+  #第三方代码文件的正则表达式
+      third_party_source:
+              filepath_regex: [".*.c", ".*.cpp", ".*.h", ".*.hpp", ".*.m", ".*.mm", ".*.swift", ".*.go", ".*.cxx", ".*.cc", ".*.cs", ".*.json", ".*.proto", ".*.pch", ".*.xml", ".*.html", ".*htm", ".*.vcproj", ".*.vcxproj", ".*.java", ".*.kt", ".*.lua", ".*.py", ".*.js", ".*.jsbundle", ".*.jsx", ".*.ts", ".*.tsx", ".*.vue", ".*.css", ".*.php", ".*.rb", ".*.scala", ".*.sql", ".*.dart", ".*.tpc", ".*.idl", ".*.md", ".*.txt"]
